@@ -1,6 +1,5 @@
 package ManWithAVan;
 import java.util.*;
 public class Intro {
-int num;
-String Name;
+//why no want to update in github
 }
